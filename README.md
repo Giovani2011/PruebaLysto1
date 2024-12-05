@@ -12,7 +12,7 @@ Antes de usar la aplicación se deberá instalar los archivos de nodemon con:
 
 npm i
 
-El buscador y toda la consulta del api esta en component un archivo VUE llamado Búsqueda .
+El buscador y toda la consulta del api esta dentro de la carpeta src/components un archivo VUE llamado Búsqueda .
 
 # Su instrucción iniciadora web. 
 
