@@ -18,8 +18,7 @@ quasar dev
 
 # Captura del programa
 
-![c3f8b039-66f1-49b1-8b28-6041b643915b](https://github.com/user-attachments/assets/4099fdf7-cb15-477e-8762-490c47a70d02)
-
+![3df8da03-dc8f-44eb-af49-8bc0cd44f9a3](https://github.com/user-attachments/assets/72120258-b204-4dd3-b051-76e6bca6ec88)
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
