@@ -1,40 +1,25 @@
-# Quasar App (quasar-project)
+## Quasar App (quasar-project)
 
-A Quasar Project
+# Buscador de animales
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+El siguiente programa fue desarrollado utilizando Quasar y Vue, y se solicitó el uso de Axios para realizar una consulta GET a una API seleccionada. En este proyecto, se utilizó la API de Pexels, que recibe datos de un input proporcionado por el usuario y devuelve imágenes.
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
+Este enfoque permite a los usuarios buscar imágenes de animales de manera eficiente, aprovechando la funcionalidad de Axios para manejar las solicitudes HTTP y la capacidad de Pexels para ofrecer una amplia variedad de imágenes de alta calidad.
+
+# Nota.
+
+Antes de usar la aplicación se deberá instalar los archivos de nodemon con:
+
+npm i
+
+# Su instrucción iniciadora web. 
+
 quasar dev
-```
 
+# Captura del programa
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+![c3f8b039-66f1-49b1-8b28-6041b643915b](https://github.com/user-attachments/assets/4099fdf7-cb15-477e-8762-490c47a70d02)
 
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
