@@ -12,6 +12,8 @@ Antes de usar la aplicación se deberá instalar los archivos de nodemon con:
 
 npm i
 
+El buscador y toda la consulta del api esta en component un archivo VUE llamado Búsqueda .
+
 # Su instrucción iniciadora web. 
 
 quasar dev
